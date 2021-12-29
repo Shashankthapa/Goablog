@@ -1,0 +1,26 @@
+body{
+  background-color: #CDDEFF; 
+}
+
+.first{
+  width : 400px;
+  height : 300px;
+}
+
+h1{
+  align-items: center;
+  font-family: 'Quicksand', sans-serif;
+  color : #502064;
+}
+
+h2{
+  font-family: 'Quicksand', sans-serif;
+  color : #676FA3;
+}
+
+.hr{
+   border-style: dotted none none none;
+   border-width: 10px;
+   border-color: grey;
+   width : 3%;
+}
